@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570220069 source:c:\users\facu\desktop\employees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmp.h"
+
+1570219292 c:\users\facu\desktop\employees\arrayemp.h
+
+1570220028 source:c:\users\facu\desktop\employees\arrayemp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmp.h"
+
